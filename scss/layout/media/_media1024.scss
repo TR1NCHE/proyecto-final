@@ -30,4 +30,18 @@
             padding-top: 30px;
         }
     }
+    .messi-cincocero{
+        grid-column: 2/3;
+        padding-left: 1rem;
+    }
+    .img-barsa{
+        grid-column: 2/7;
+        grid-row: 2/6;
+        padding-left: 1rem;
+        padding-right: 1rem;
+    }
+    .video-cincocero{
+        grid-row: 2/4;
+        align-content: center;
+    }
 }

@@ -1,0 +1,22 @@
+@media (max-width:320px){
+    .section-barsa{
+        padding-left: 30px;
+    }
+    .messi-cincocero{
+        grid-row: 4/5;
+        grid-column: 1/3;
+        padding-left: 40px;
+    }
+    .img-barsa{
+        grid-column: 1/3;
+        padding-left: 50px;
+    }
+    .video-cincocero{
+        grid-column: 1/3;
+        grid-row: 4/5;
+        iframe{
+            padding-right: 40px;
+            padding-top: 90px;
+        }
+    }
+}

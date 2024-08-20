@@ -50,10 +50,12 @@
 }
 
 .img-barsa{
-    @include imagenes;
-    grid-column: 3/5;
+    grid-column: 3/6;
     grid-row: 2/5;
     order: 0;
+    img{
+        @include imagenes;
+    }
 }
 
 .video-cincocero{
